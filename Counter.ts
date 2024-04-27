@@ -1,7 +1,7 @@
 let counter = 0
 
 //% block="Counter" weight=100 color=#333 icon=""
-namespace code {
+namespace counterext {
 
     //%block="Count"
     export function count(): void {
